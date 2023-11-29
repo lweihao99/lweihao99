@@ -1,6 +1,7 @@
-### Hi there 👋
-
 <div id="header" align="center">
+<p>
+### Hi there 👋 ###
+</p>
   <img src="./image/1.gif">
 </div>
 
