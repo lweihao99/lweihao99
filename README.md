@@ -57,6 +57,7 @@
   <hr class="dotted">
 
   <!--START_SECTION:waka-->
+  <!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lweihao99)](https://github.com/anuraghazra/github-readme-stats)-->
   <!--END_SECTION:waka-->
   
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=lweihao99&label=Profile%20views&color=ce9927&style=flat" alt="lweihao99" /> </p>
