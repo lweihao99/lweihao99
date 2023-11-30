@@ -20,8 +20,7 @@
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/></code>
   
-[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)]([https://steamcommunity.com/id/asd1047828466](https://steamcommunity.com/id/lweihao99))
-  </details>
+  </details> 
 </div>
 
 <div align="center">
@@ -53,13 +52,12 @@
   <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
   <img alt="lweihao99's Activity Graph" src="https://media1.giphy.com/media/SHjOSDkKZ18qOHA5B5/200.webp?cid=ecf05e472hly11zkyodiuxc051ei1kijvz0lwsu9jiv8bhdr&ep=v1_stickers_search&rid=200.webp&ct=s" />
-
-  <!--START_SECTION:waka-->
-
-  <!--END_SECTION:waka-->
   
   <br />
   <hr class="dotted">
+
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
   
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=lweihao99&label=Profile%20views&color=ce9927&style=flat" alt="lweihao99" /> </p>
   
