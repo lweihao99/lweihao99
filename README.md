@@ -41,12 +41,24 @@
    <h4>📈 GitHub Activity Graph</h4>
    <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-   <img alt="luomi16's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=lweihao99&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+   <img alt="lweihao99's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=lweihao99&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
   </a>
   
 
 </div>
+
+<div align="center">
+  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+  <img alt="lweihao99's Activity Graph" src="https://media1.giphy.com/media/SHjOSDkKZ18qOHA5B5/200.webp?cid=ecf05e472hly11zkyodiuxc051ei1kijvz0lwsu9jiv8bhdr&ep=v1_stickers_search&rid=200.webp&ct=s" />
+  
+  <br />
+  <hr class="dotted">
+  
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=lweihao99&label=Profile%20views&color=ce9927&style=flat" alt="lweihao99" /> </p>
+
 <!--
+  ![Visitor Count](https://profile-counter.glitch.me/lweihao99/count.svg)
 **lweihao99/lweihao99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
