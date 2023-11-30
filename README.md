@@ -27,10 +27,7 @@
     <summary><h3>📊 Github Stats and Activity</h3></summary>
     <h4>🔥 Streak Stats</h4>
     <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-       [![GitHub Streak](https://streak-stats.demolab.com/?user=lweihao99)](https://git.io/streak-stats)
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="lweihao99's streak" src="https://streak-stats.demolab.com/?user=lweihao99&theme=monokai-metallian&hide_border=true"/>
-     </a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lweihao99&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" /></a>
    
    <h4>💻 GitHub Profile Stats</h4>
    <!-- https://github.com/anuraghazra/github-readme-stats -->
