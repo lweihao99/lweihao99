@@ -19,6 +19,8 @@
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/></code>
+  
+  <code>[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)]([https://steamcommunity.com/id/asd1047828466](https://steamcommunity.com/profiles/76561198096971108))</code>
   </details>
 </div>
 
@@ -60,7 +62,8 @@
   <hr class="dotted">
   
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=lweihao99&label=Profile%20views&color=ce9927&style=flat" alt="lweihao99" /> </p>
-
+  
+  
 <!--
   ![Visitor Count](https://profile-counter.glitch.me/lweihao99/count.svg)
 **lweihao99/lweihao99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
