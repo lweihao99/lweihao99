@@ -23,11 +23,11 @@
 </div>
 
 <div align="center">
-  <details> 
-    <summary><h3>📊 Github Stats and Activity</h3></summary>
-    <h4>🔥 Streak Stats</h4>
-    <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lweihao99&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" /></a>
+
+  <summary><h3>📊 Github Stats and Activity</h3></summary>
+  <h4>🔥 Streak Stats</h4>
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lweihao99&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" /></a>
    
    <h4>💻 GitHub Profile Stats</h4>
    <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -44,7 +44,7 @@
    <img alt="luomi16's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=lweihao99&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
   </a>
   
-  </details>
+
 </div>
 <!--
 **lweihao99/lweihao99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
