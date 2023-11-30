@@ -44,6 +44,28 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
    <img alt="lweihao99's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=lweihao99&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
   </a>
+
+
+<tr><td>
+
+### 📊 WakaTime
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=lweihao99&layout=compact&text_color=f0f6fc&bg_color=E5E5E5&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=lweihao99&layout=compact&text_color=1f2328&bg_color=E5E5E5&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lweihao99&layout=compact&text_color=f0f6fc&bg_color=E5E5E5&hide_border=true&hide_title=true" />
+</picture>
+
+</td></tr>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
   
 
 </div>
@@ -55,9 +77,6 @@
   
   <br />
   <hr class="dotted">
-
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
   
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=lweihao99&label=Profile%20views&color=ce9927&style=flat" alt="lweihao99" /> </p>
   
