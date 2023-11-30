@@ -51,6 +51,10 @@
   <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
   <img alt="lweihao99's Activity Graph" src="https://media1.giphy.com/media/SHjOSDkKZ18qOHA5B5/200.webp?cid=ecf05e472hly11zkyodiuxc051ei1kijvz0lwsu9jiv8bhdr&ep=v1_stickers_search&rid=200.webp&ct=s" />
+
+  <!--START_SECTION:waka-->
+
+  <!--END_SECTION:waka-->
   
   <br />
   <hr class="dotted">
