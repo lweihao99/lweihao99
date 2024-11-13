@@ -69,16 +69,16 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 08 July 2020 - To: 10 November 2024
+From: 08 July 2020 - To: 11 November 2024
 
-Total Time: 1,300 hrs 26 mins
+Total Time: 1,303 hrs 17 mins
 
-JavaScript    777 hrs 50 mins >>>>>>>>>>>>>>>----------   59.79 %
-Python        191 hrs 26 mins >>>>---------------------   14.71 %
-HTML          150 hrs 50 mins >>>----------------------   11.59 %
-CSS           99 hrs 42 mins  >>-----------------------   07.66 %
-TypeScript    28 hrs 27 mins  >------------------------   02.19 %
-Text          15 hrs 38 mins  -------------------------   01.20 %
+JavaScript    780 hrs 40 mins >>>>>>>>>>>>>>>----------   59.87 %
+Python        191 hrs 26 mins >>>>---------------------   14.68 %
+HTML          150 hrs 50 mins >>>----------------------   11.57 %
+CSS           99 hrs 42 mins  >>-----------------------   07.65 %
+TypeScript    28 hrs 27 mins  >------------------------   02.18 %
+Text          15 hrs 40 mins  -------------------------   01.20 %
 Vue.js        11 hrs 56 mins  -------------------------   00.92 %
 SCSS          11 hrs 11 mins  -------------------------   00.86 %
 Markdown      1 hr 2 mins     -------------------------   00.08 %
